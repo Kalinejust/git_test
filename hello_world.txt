@@ -1,1 +1,2 @@
 This is my first text file update to git
+Still working out the kinks
